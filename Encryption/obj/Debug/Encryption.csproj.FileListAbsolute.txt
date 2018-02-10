@@ -1,0 +1,9 @@
+C:\Users\Amin\Documents\Visual Studio 2017\Projects\Encryption\Encryption\bin\Debug\Encryption.exe.config
+C:\Users\Amin\Documents\Visual Studio 2017\Projects\Encryption\Encryption\bin\Debug\Encryption.exe
+C:\Users\Amin\Documents\Visual Studio 2017\Projects\Encryption\Encryption\bin\Debug\Encryption.pdb
+C:\Users\Amin\Documents\Visual Studio 2017\Projects\Encryption\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
+C:\Users\Amin\Documents\Visual Studio 2017\Projects\Encryption\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Amin\Documents\Visual Studio 2017\Projects\Encryption\Encryption\obj\Debug\Encryption.exe
+C:\Users\Amin\Documents\Visual Studio 2017\Projects\Encryption\Encryption\obj\Debug\Encryption.pdb
+C:\Users\Amin\Documents\Visual Studio 2017\Projects\Encryption\Encryption\bin\Debug\MathNet.Numerics.dll
+C:\Users\Amin\Documents\Visual Studio 2017\Projects\Encryption\Encryption\bin\Debug\MathNet.Numerics.xml
